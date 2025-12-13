@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Unity",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-13T03:48:07.217424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unity Concepts",
+      "artist": "Mouse On Mars",
+      "has_synced": false,
+      "path": "select/01_Unity_Concepts_Mouse_On_Mars.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "Röyksopp feat. Karen Harding",
+      "has_synced": true,
+      "path": "select/02_Unity_Röyksopp_feat._Karen_Harding.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "Inner City",
+      "has_synced": false,
+      "path": "select/03_Unity_Inner_City.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Glory Majesty Unity",
+      "artist": "Manowar",
+      "has_synced": true,
+      "path": "select/04_Glory_Majesty_Unity_Manowar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dream Of Unity - Live",
+      "artist": "Bad Religion",
+      "has_synced": false,
+      "path": "select/05_Dream_Of_Unity_-_Live_Bad_Religion.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dream Of Unity",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/06_Dream_Of_Unity_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dream of Unity",
+      "artist": "Bad Religion",
+      "has_synced": false,
+      "path": "select/07_Dream_of_Unity_Bad_Religion.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/08_Unity_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "Dimitri Vegas & Like Mike feat. Hardwell",
+      "has_synced": true,
+      "path": "select/09_Unity_Dimitri_Vegas_&_Like_Mike_feat._Hardwell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "Dimitri Vegas & Like Mike",
+      "has_synced": true,
+      "path": "select/10_Unity_Dimitri_Vegas_&_Like_Mike.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/11_Unity_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Voice Of Unity",
+      "artist": "Yuvan Shankar Raja feat. Silambarasan TR & Arivu",
+      "has_synced": true,
+      "path": "select/12_Voice_Of_Unity_Yuvan_Shankar_Raja_feat._Silambarasan_TR_&_Arivu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Voice Of Unity",
+      "artist": "Arivu, Silambarasan TR, Yuvan Shankar Raja",
+      "has_synced": true,
+      "path": "select/13_Voice_Of_Unity_Arivu,_Silambarasan_TR,_Yuvan_Shankar_Raja.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unity",
+      "artist": "Nina Hagen",
+      "has_synced": true,
+      "path": "select/14_Unity_Nina_Hagen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unity",
+      "artist": "TheFatRat",
+      "has_synced": false,
+      "path": "select/pl_01_Unity_TheFatRat.txt"
+    }
+  ]
+}
